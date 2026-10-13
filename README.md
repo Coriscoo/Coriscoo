@@ -1,7 +1,7 @@
 <img width="220" height="124" alt="patrick-jane-simon-baker" src="https://github.com/user-attachments/assets/d392e912-83ce-4149-98a7-3fa4834c7668" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://github.com/Coriscoo)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/Coriscoo])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielnunes8080/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Coriscoo)
 [![Location](https://img.shields.io/badge/Location-João%20Pessoa,%20Brazil-009739?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 ---
