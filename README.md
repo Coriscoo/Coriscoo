@@ -40,22 +40,3 @@ I enjoy digging deep into system dynamics—from low-level assembly debugging an
 | **Network & Web Scanning** | `Nmap`, `Gobuster`, `BBOT` for enumeration and reconnaissance |
 | **Reverse Engineering & Debugging** | Low-level execution tracing using `x64dbg`, `x32dbg`, and `GEF` |
 | **Certifications / Courses** | Ethical Hacker & Network Essentials (Cisco Networking Academy) |
-
----
-
-## 🚀 Key Projects
-
-### 🚗 **E-Drive — Car Rental Web App**
-* **Stack:** Python, Django, HTML/CSS
-* **Summary:** Web application designed to manage car rental services, handling views, routes, and custom interface elements.
-
-### 💰 **Personal Finance Tracker**
-* **Stack:** Python, Django, Bootstrap/CSS
-* **Summary:** A lightweight financial tracking web app that allows users to record, categorize, and calculate personal expenses dynamically.
-
----
-
-## 📫 How to Reach Me
-
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
